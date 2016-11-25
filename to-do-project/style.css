@@ -8,9 +8,26 @@ body {
 	margin: 0 auto;
 }
 
+.container {
+    padding: 1.01em 25px;
+}
+
+.w3-container {
+    padding: 5.01em 66px;
+}
+.w3-section {
+    margin-top: 2px!important;
+    margin-bottom: 2px!important;
+}
+.w3-border {
+    border: 2px solid #ccc!important;
+}
+
+
 input {
 	padding-top: 30px;
-	width: 500px;
+	padding-bottom: 35px;
+	width: 378px;
 	height: 60px;
 	font-size: 40px;
 	font-weight: 700;
@@ -25,6 +42,7 @@ input:focus {
 li {
 	text-align: left;
 	font-size: 40px;
+	padding-bottom: 40px;
 	list-style: none;
 	color: #fd6464;
 	margin: 0;
