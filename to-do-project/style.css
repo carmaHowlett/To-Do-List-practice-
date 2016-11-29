@@ -17,6 +17,13 @@ h2 {
     padding-bottom: 0;
 }
 
+h6 {
+    font-weight: 400;
+    color: #4A6E77;
+		margin: 20px;
+    font-size: 1.00em;
+}
+
 .container {
     padding: 1.01em 25px;
 }
